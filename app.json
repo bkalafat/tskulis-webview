@@ -1,12 +1,21 @@
 {
-  "name": "tskulis-webview",
-  "displayName": "tskulis-webview",
+  "name": "TsKulis",
+  "displayName": "Ts Kulis",
   "expo": {
-    "name": "tskulis-webview",
+    "name": "Ts Kulis",
+    "icon":"./public/apple-icon.png",
     "slug": "tskulis-webview",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "bundleIdentifier": "com.karamba.tskulis",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.karamba.tskulis",
+      "versionCode": 1
+    }
   }
 }
