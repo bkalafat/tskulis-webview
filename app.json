@@ -1,0 +1,12 @@
+{
+  "name": "tskulis-webview",
+  "displayName": "tskulis-webview",
+  "expo": {
+    "name": "tskulis-webview",
+    "slug": "tskulis-webview",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
