@@ -5,13 +5,13 @@
     "name": "Ts Kulis",
     "icon":"./public/apple-icon.png",
     "slug": "tskulis-webview",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "assetBundlePatterns": [
       "**/*"
     ],
     "ios": {
       "bundleIdentifier": "com.karamba.tskulis",
-      "buildNumber": "1.0.0"
+      "buildNumber": "1.0.1"
     },
     "android": {
       "package": "com.karamba.tskulis",
